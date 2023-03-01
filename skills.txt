@@ -1,1 +1,17 @@
-guru it
+Post-course skills:
+1. Testing theoria;
+2. Client-server architecture;
+3. Structures HTTP;
+4. Structures JSON, XML;
+5. API testing (Postman);
+6. Logging;
+7. Sniffing traffic (Charles, Fiddler);
+8. Dev Tools;
+9. Structures HTTP;
+10. VPN;
+11. Mobile testing;
+12. Terminal Linux, bash;
+13. SQL, Data base (Postgres, Redis);
+14. Load testing (Jmeter);
+15. Scrum;
+16. Python.

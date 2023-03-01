@@ -1,7 +1,7 @@
-{
-	"favorite movie":"Pulp Fiction",
-	"favorite series": "Mistfits",
-	"favorite food": "Fried potatoes",
-	"favorites season":"summer",
-	"favorites country":"Chilli"
-}
+Data:
+Favorite movie: "Pulp Fiction";
+Favorite series: "Mistfits";
+Favorite food: "Fried potatoes";
+Favorites season: Summer;
+Favorites country: Chilli.
+
